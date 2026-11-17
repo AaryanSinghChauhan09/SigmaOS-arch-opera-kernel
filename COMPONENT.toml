@@ -3,7 +3,7 @@ name = "SigmaOS-arch-opera-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-opera-kernel component"
+description = "SigmaOS SigmaOS-arch-opera-kernel component"
 upstream = []
 
 [contract]
